@@ -10,7 +10,7 @@ Enciende un LED por un segundo y lo apaga por el mismo tiempo
 void setup()
 // Se ejecuta cada vez que el Arduino se inicia
 {
-pinMode(5,OUTPUT); // Inicializa el pin 13 como una salida
+pinMode(13,OUTPUT); // Inicializa el pin 13 como una salida
 }
 //------------------------------------
 //Función cíclica
