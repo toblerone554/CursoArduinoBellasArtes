@@ -1,1 +1,4 @@
 http://s4a.cat/
+
+Tras instalar, se cierra S4A y se ejecuta desde arduino el archivo que esta dentro de la carpeta S4AFirmware16. Sin cerrar el ide de Arduino,
+lanzamos el S4A.
